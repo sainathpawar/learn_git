@@ -1,0 +1,9 @@
+Check the git version
+Configure email-id
+Configure Username
+Edit the Configuration file
+Initialize the git
+git status 
+Added file to git into staging area
+To commit into repository
+To check git commit history
