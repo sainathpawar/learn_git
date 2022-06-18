@@ -3,3 +3,7 @@ git config --global user.email "sainathpawar920@gmail.com"
 git config --global user.name "sainath subhash pawar"
 git config --global --edit
 git init
+git status
+git add git.txt
+git commit -m "Initial Commit"
+git log
